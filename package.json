@@ -1,0 +1,31 @@
+{
+  "name": "react-contact-form-node",
+  "version": "1.0.0",
+  "description": "node backend for react contact form",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clifhodges13/react-contact-form-node.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "axios",
+    "nodemailer"
+  ],
+  "author": "Clif Hodges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clifhodges13/react-contact-form-node/issues"
+  },
+  "homepage": "https://github.com/clifhodges13/react-contact-form-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.2.1"
+  }
+}
